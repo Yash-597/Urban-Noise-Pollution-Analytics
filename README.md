@@ -15,7 +15,6 @@ An interactive Power BI dashboard analyzing urban noise pollution trends, tempor
 
 ### Dashboard Previews
 <img width="884" height="661" alt="image" src="https://github.com/user-attachments/assets/9bff4fe6-3cd0-41d6-95f1-2e986372c846" />
-<img width="80" height="447" alt="image" src="https://github.com/user-attachments/assets/b00894f6-efe6-4860-8e0f-d41547a25481" />
 <img width="894" height="530" alt="image" src="https://github.com/user-attachments/assets/3ef96148-aee0-4b4a-8d6a-f35b1c099a36" />
 <img width="885" height="618" alt="image" src="https://github.com/user-attachments/assets/dd7cc0be-87b6-4f96-86e0-399482077a5c" />
 <img width="665" height="256" alt="image" src="https://github.com/user-attachments/assets/0cf86b12-972b-4f7d-9cdc-9c42f38fa655" />
